@@ -22,3 +22,8 @@
 .alert-box-actions {
   text-align: right;
 }
+
+.message-text {
+  text-align: center;
+  font-weight: 900;
+}
